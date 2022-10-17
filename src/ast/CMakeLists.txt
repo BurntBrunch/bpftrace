@@ -50,7 +50,6 @@ if (STATIC_LINKING)
       irreader
       mcjit
       option
-      orcjit
       ${LLVM_TARGETS_TO_BUILD})
 
 
