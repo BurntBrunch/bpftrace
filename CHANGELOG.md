@@ -11,6 +11,8 @@ and this project adheres to
 #### Added
 - Support for 32-bit ARM systems
   - [#2360](https://github.com/iovisor/bpftrace/pull/2360)
+- Add map wildcard support for delete()
+  - [#2321](https://github.com/iovisor/bpftrace/pull/2321)
 #### Changed
 - Raise minimum versions for libbpf and bcc and vendor them for local builds
   - [#2369](https://github.com/iovisor/bpftrace/pull/2369)
